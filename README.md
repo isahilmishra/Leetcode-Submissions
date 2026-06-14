@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/isahilmishra/a2z-sheet/tree/master/0917-boats-to-save-people) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/isahilmishra/a2z-sheet/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/isahilmishra/a2z-sheet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/isahilmishra/a2z-sheet/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2470-removing-stars-from-a-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/isahilmishra/a2z-sheet/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/0908-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
