@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/isahilmishra/a2z-sheet/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/isahilmishra/a2z-sheet/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0240-search-a-2d-matrix-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/isahilmishra/a2z-sheet/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/isahilmishra/a2z-sheet/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/isahilmishra/a2z-sheet/tree/master/0424-longest-repeating-character-replacement) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/isahilmishra/a2z-sheet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/isahilmishra/a2z-sheet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/isahilmishra/a2z-sheet/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/isahilmishra/a2z-sheet/tree/master/0435-non-overlapping-intervals) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/isahilmishra/a2z-sheet/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/isahilmishra/a2z-sheet/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/isahilmishra/a2z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
