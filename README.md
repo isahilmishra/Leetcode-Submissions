@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/isahilmishra/a2z-sheet/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1033-broken-calculator](https://github.com/isahilmishra/a2z-sheet/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/isahilmishra/a2z-sheet/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/isahilmishra/a2z-sheet/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/isahilmishra/a2z-sheet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1448-maximum-69-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/isahilmishra/a2z-sheet/tree/master/1817-calculate-money-in-leetcode-bank) |
