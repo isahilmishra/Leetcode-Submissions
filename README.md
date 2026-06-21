@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/isahilmishra/a2z-sheet/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1646-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/isahilmishra/a2z-sheet/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/isahilmishra/a2z-sheet/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/isahilmishra/a2z-sheet/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/isahilmishra/a2z-sheet/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/isahilmishra/a2z-sheet/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/isahilmishra/a2z-sheet/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/isahilmishra/a2z-sheet/tree/master/0917-boats-to-save-people) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/isahilmishra/a2z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1833-maximum-ice-cream-bars](https://github.com/isahilmishra/a2z-sheet/tree/master/1833-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/isahilmishra/a2z-sheet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/isahilmishra/a2z-sheet/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/isahilmishra/a2z-sheet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/isahilmishra/a2z-sheet/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/isahilmishra/a2z-sheet/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1448-maximum-69-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/isahilmishra/a2z-sheet/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/isahilmishra/a2z-sheet/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/isahilmishra/a2z-sheet/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/isahilmishra/a2z-sheet/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -753,4 +756,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/isahilmishra/a2z-sheet/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/isahilmishra/a2z-sheet/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/isahilmishra/a2z-sheet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/isahilmishra/a2z-sheet/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
