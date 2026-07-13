@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/isahilmishra/a2z-sheet/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/isahilmishra/a2z-sheet/tree/master/0900-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/isahilmishra/a2z-sheet/tree/master/1291-sequential-digits) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/isahilmishra/a2z-sheet/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/isahilmishra/a2z-sheet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Number Theory
