@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/isahilmishra/a2z-sheet/tree/master/2529-range-product-queries-of-powers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/isahilmishra/a2z-sheet/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/isahilmishra/a2z-sheet/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/isahilmishra/a2z-sheet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/isahilmishra/a2z-sheet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/isahilmishra/a2z-sheet/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/isahilmishra/a2z-sheet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/isahilmishra/a2z-sheet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/isahilmishra/a2z-sheet/tree/master/0547-number-of-provinces) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/isahilmishra/a2z-sheet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
