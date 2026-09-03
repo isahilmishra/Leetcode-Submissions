@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/3790-fruits-into-baskets-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/isahilmishra/a2z-sheet/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
