@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/isahilmishra/a2z-sheet/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/isahilmishra/a2z-sheet/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/isahilmishra/a2z-sheet/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/isahilmishra/a2z-sheet/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/isahilmishra/a2z-sheet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/isahilmishra/a2z-sheet/tree/master/0165-compare-version-numbers) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/isahilmishra/a2z-sheet/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/isahilmishra/a2z-sheet/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/isahilmishra/a2z-sheet/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/isahilmishra/a2z-sheet/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/isahilmishra/a2z-sheet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0213-house-robber-ii) |
