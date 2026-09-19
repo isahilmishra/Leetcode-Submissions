@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3311-ant-on-the-boundary](https://github.com/isahilmishra/a2z-sheet/tree/master/3311-ant-on-the-boundary) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/isahilmishra/a2z-sheet/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/isahilmishra/a2z-sheet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/isahilmishra/a2z-sheet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/isahilmishra/a2z-sheet/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/isahilmishra/a2z-sheet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/isahilmishra/a2z-sheet/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3678-design-task-manager](https://github.com/isahilmishra/a2z-sheet/tree/master/3678-design-task-manager) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/isahilmishra/a2z-sheet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/isahilmishra/a2z-sheet/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1013-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/isahilmishra/a2z-sheet/tree/master/3483-unique-3-digit-even-numbers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/isahilmishra/a2z-sheet/tree/master/1291-sequential-digits) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/isahilmishra/a2z-sheet/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/isahilmishra/a2z-sheet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/isahilmishra/a2z-sheet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
