@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/isahilmishra/a2z-sheet/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/isahilmishra/a2z-sheet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/isahilmishra/a2z-sheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/isahilmishra/a2z-sheet/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/isahilmishra/a2z-sheet/tree/master/3483-unique-3-digit-even-numbers) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/isahilmishra/a2z-sheet/tree/master/2429-design-a-food-rating-system) |
 | [2470-removing-stars-from-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2470-removing-stars-from-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/isahilmishra/a2z-sheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/3462-vowels-game-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3612-process-string-with-special-operations-i) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/isahilmishra/a2z-sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/isahilmishra/a2z-sheet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/isahilmishra/a2z-sheet/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/isahilmishra/a2z-sheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
