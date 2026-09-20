@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/isahilmishra/a2z-sheet/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/isahilmishra/a2z-sheet/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/isahilmishra/a2z-sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/isahilmishra/a2z-sheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/isahilmishra/a2z-sheet/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/isahilmishra/a2z-sheet/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/isahilmishra/a2z-sheet/tree/master/1980-find-unique-binary-string) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/isahilmishra/a2z-sheet/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/isahilmishra/a2z-sheet/tree/master/0917-boats-to-save-people) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/isahilmishra/a2z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/isahilmishra/a2z-sheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/isahilmishra/a2z-sheet/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/isahilmishra/a2z-sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/isahilmishra/a2z-sheet/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/isahilmishra/a2z-sheet/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/isahilmishra/a2z-sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/isahilmishra/a2z-sheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/isahilmishra/a2z-sheet/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/isahilmishra/a2z-sheet/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/isahilmishra/a2z-sheet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/isahilmishra/a2z-sheet/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1448-maximum-69-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/isahilmishra/a2z-sheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/isahilmishra/a2z-sheet/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/isahilmishra/a2z-sheet/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/isahilmishra/a2z-sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
