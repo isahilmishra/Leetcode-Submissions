@@ -905,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
