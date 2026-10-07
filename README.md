@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/isahilmishra/a2z-sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/isahilmishra/a2z-sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/isahilmishra/a2z-sheet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/isahilmishra/a2z-sheet/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/isahilmishra/a2z-sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/isahilmishra/a2z-sheet/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/isahilmishra/a2z-sheet/tree/master/0943-sum-of-subarray-minimums) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/isahilmishra/a2z-sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
