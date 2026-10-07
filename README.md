@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/isahilmishra/a2z-sheet/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/isahilmishra/a2z-sheet/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/isahilmishra/a2z-sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/isahilmishra/a2z-sheet/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0345-reverse-vowels-of-a-string) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/isahilmishra/a2z-sheet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/0301-remove-invalid-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/isahilmishra/a2z-sheet/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/isahilmishra/a2z-sheet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/isahilmishra/a2z-sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/isahilmishra/a2z-sheet/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/isahilmishra/a2z-sheet/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/isahilmishra/a2z-sheet/tree/master/0662-maximum-width-of-binary-tree) |
