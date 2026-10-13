@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/isahilmishra/a2z-sheet/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/isahilmishra/a2z-sheet/tree/master/0917-boats-to-save-people) |
+| [0931-minimum-falling-path-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0931-minimum-falling-path-sum) |
 | [0940-fruit-into-baskets](https://github.com/isahilmishra/a2z-sheet/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/isahilmishra/a2z-sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0966-binary-subarrays-with-sum) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/isahilmishra/a2z-sheet/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0678-valid-parenthesis-string) |
+| [0931-minimum-falling-path-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/isahilmishra/a2z-sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1013-fibonacci-number) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/isahilmishra/a2z-sheet/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/isahilmishra/a2z-sheet/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/isahilmishra/a2z-sheet/tree/master/0994-rotting-oranges) |
 | [2047-find-a-peak-element-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/2047-find-a-peak-element-ii) |
 ## Prefix Sum
