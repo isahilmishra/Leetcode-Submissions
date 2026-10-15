@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/isahilmishra/a2z-sheet/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/isahilmishra/a2z-sheet/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/isahilmishra/a2z-sheet/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/isahilmishra/a2z-sheet/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/isahilmishra/a2z-sheet/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0931-minimum-falling-path-sum) |
@@ -966,4 +968,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/isahilmishra/a2z-sheet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
