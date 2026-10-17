@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/isahilmishra/a2z-sheet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/isahilmishra/a2z-sheet/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3689-maximum-total-subarray-value-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3689-maximum-total-subarray-value-i) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/isahilmishra/a2z-sheet/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/isahilmishra/a2z-sheet/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/isahilmishra/a2z-sheet/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3678-design-task-manager](https://github.com/isahilmishra/a2z-sheet/tree/master/3678-design-task-manager) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/isahilmishra/a2z-sheet/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/isahilmishra/a2z-sheet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
