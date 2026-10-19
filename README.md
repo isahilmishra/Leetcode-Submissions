@@ -983,4 +983,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/1049-last-stone-weight-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/isahilmishra/a2z-sheet/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
