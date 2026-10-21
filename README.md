@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/3462-vowels-game-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3612-process-string-with-special-operations-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |
