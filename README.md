@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/1049-last-stone-weight-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/isahilmishra/a2z-sheet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/isahilmishra/a2z-sheet/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/isahilmishra/a2z-sheet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/isahilmishra/a2z-sheet/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-cherry-pickup-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/1463-cherry-pickup-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/isahilmishra/a2z-sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/isahilmishra/a2z-sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/isahilmishra/a2z-sheet/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/isahilmishra/a2z-sheet/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/isahilmishra/a2z-sheet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/isahilmishra/a2z-sheet/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/isahilmishra/a2z-sheet/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1646-kth-missing-positive-number) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/isahilmishra/a2z-sheet/tree/master/0917-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/isahilmishra/a2z-sheet/tree/master/0973-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/isahilmishra/a2z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/isahilmishra/a2z-sheet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/isahilmishra/a2z-sheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/isahilmishra/a2z-sheet/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/isahilmishra/a2z-sheet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/isahilmishra/a2z-sheet/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/isahilmishra/a2z-sheet/tree/master/0917-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/isahilmishra/a2z-sheet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/isahilmishra/a2z-sheet/tree/master/2271-rearrange-array-elements-by-sign) |
